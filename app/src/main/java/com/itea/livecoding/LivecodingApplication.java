@@ -1,4 +1,4 @@
-package com.ite.livecoding;
+package com.itea.livecoding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

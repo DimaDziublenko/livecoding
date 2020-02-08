@@ -1,9 +1,9 @@
-package com.ite.livecoding;
+package com.itea.livecoding;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+@SpringBootTest(classes = LivecodingApplication.class)
 class LivecodingApplicationTests {
 
     @Test
